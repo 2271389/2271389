@@ -7,7 +7,7 @@
 ***
 
 <p align="left">
-<a href="https://twitter.com/jeriko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_miubeoxu_" height="30" width="40" /></a>
+<a href="https://twitter.com/_mimibeoxu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mimibeoxu_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lan huong nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lan huong nguyen" height="30" width="40" /></a>
 <a href="https://fb.com/lan huong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lan huong" height="30" width="40" /></a>
 <a href="https://instagram.com/youngbeelucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeriko" height="30" width="40" /></a>

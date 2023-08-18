@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jeriko</h1>
-<h3 align="center">A pice developer from Vietnam</h3>
+<h1 align="center">🍀Hello everyone! I'm Jeriko <img src="https://media1.giphy.com/media/pr1dbVONbGeVvSiECh/giphy.webp?cid=ecf05e47s70y2hhcgoo3ijkoxmz1lxo98ulknro0nr79u6u5&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="50"></h1>
+<h3 align="center">🍁A pice developer from Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2271389&label=Profile%20views&color=0e75b6&style=flat" alt="2271389" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img src="https://media4.giphy.com/media/oebD5alsVBFKg/200w.webp" width="50"> Connect with me:</h3>
 
 ***
 
@@ -11,7 +11,7 @@
 <a href="https://instagram.com/youngbeelucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeriko" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">What I'm doing:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> What I'm doing:</h3>
 
 ***
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **meoomimi.03@gmail.com**
 
-<h3 align="left">Languages and Tools I study:</h3>
+<h3 align="left"><img src="https://media4.giphy.com/media/l3mZjqmhfmk4MpMLC/200w.webp" width="50"> Languages and Tools I study:</h3>
 
 ***
 

@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on [Octopus](https://github.com/Octopus-group)
   
-- 🌱 I’m currently learning Laravel & more
+- 🌱 I’m currently learning PHP & more
 
 - 📫 How to reach me **meoomimi.03@gmail.com**
 

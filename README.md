@@ -38,12 +38,12 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## My Stats:
+## <img src="https://media1.giphy.com/media/oOylMv2oLDxcxGzYn6/200w.webp?cid=ecf05e47951ltjy5j5jt3nu7r4uw07ftyf54ou0w4c0cvjo9&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50"> My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=2271389&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-## Activity On GitHub:
+## <img src="https://media4.giphy.com/media/e2KLC2swVkj7i/giphy_s.gif?cid=ecf05e47951ltjy5j5jt3nu7r4uw07ftyf54ou0w4c0cvjo9&ep=v1_stickers_search&rid=giphy_s.gif&ct=s" width="50"> Activity On GitHub:
 
 <p align="center">
   <a href="https://github.com/2271389">      

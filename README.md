@@ -43,7 +43,7 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=2271389&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-## <img src="https://media4.giphy.com/media/e2KLC2swVkj7i/giphy_s.gif?cid=ecf05e47951ltjy5j5jt3nu7r4uw07ftyf54ou0w4c0cvjo9&ep=v1_stickers_search&rid=giphy_s.gif&ct=s" width="50"> Activity On GitHub:
+## <img src="https://media4.giphy.com/media/s8o96n9sE02bXsiFox/200.webp?cid=ecf05e47wjjtjct9egm780wllasa516600crgepcrc7pssll&ep=v1_stickers_search&rid=200.webp&ct=s" width="50"> Activity On GitHub:
 
 <p align="center">
   <a href="https://github.com/2271389">      
